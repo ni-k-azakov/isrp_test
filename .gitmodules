@@ -1,0 +1,3 @@
+[submodule "php_stuff"]
+	path = php_stuff
+	url = https://github.com/ni-k-azakov/php_stuff.git
